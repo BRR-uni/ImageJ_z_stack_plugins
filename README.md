@@ -55,4 +55,5 @@ The pluggins are deffinitely overfitted to my applications, therefore they lack 
 - The kind of z-projection can only be changed directly through the code if you want other than max intensity
 - The scale bar can only be changed again directly through the code. Didn't know how often I would need to change it and if it would be annoying to have a really long list of features to tweek every time I ran the plugin, if at the end I usually just changed one or two features when changing from groups of images
 - Batch implementation to run on directories full of images should be a must if working with hundreds of images for example, but for my workload at the time it was not necessary
+- I commented the code in Spanish, so I could translate it to Ensligh if necessary
 - Finally, I think the plugin might crash if used with weird numbers of images (I have never used more than 4 channels, but if so, some moddifications might be needed).
