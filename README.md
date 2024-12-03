@@ -1,10 +1,10 @@
 # ImageJ_z_stack_plugins
 ## A series of ImageJ plugins to run z stack imaging processing faster.
-Theses are two FIJI (ImageJ) plugins I used to automate part of the image processing I needed with some confocal microscopy images. It has the potential to greatly improve the time to do repetitive image processing by still allowing some tuning in case you need to change the parameters used to proces certain group of images.
+These are two FIJI (ImageJ) plugins I used to automate part of the image processing I needed with some confocal microscopy images. It has the potential to greatly improve the time to do repetitive image processing by still allowing some tuning in case you need to change the parameters used to proces certain group of images.
 
 ## How to install
 To run the software provided, you will need to install the FIJI (ImageJ) software first. Once ready, you ill have to download the .ijm files and place them in the right directory. 
-Depending on your sistem or instalation, the path should look like this
+Depending on your system or instalation, the path should look like this
 C:\Program Files (x86)\Fiji.app\scripts\Plugins
 Once you have the files there, open the FIJI program an use the search bar or ctrl + L to search for the names of the plugins you just downloaded
 
